@@ -4,6 +4,8 @@
 
 DeepQuery is an innovative research tool designed to enhance knowledge extraction and retrieval from web content. It uses state-of-the-art machine learning technologies, including LangChain, OpenAI embeddings, and FAISS, a high-performance vector database. The tool is capable of querying up to three website links simultaneously, offering deep insights and comprehensive answers. DeepQuery returns also the source where the answer was retrieved.
 
+![](Output.jpg)
+
 ## Features
 
 - **Multi-Source Processing:** Aggregate and analyze content from up to three distinct website URLs.
