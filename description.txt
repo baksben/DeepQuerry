@@ -1,0 +1,6 @@
+This is a knowledge base chatbot which can answer questions, document summarization on custom data. 
+sites used: 
+https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-against-russia-over-ukraine/sanctions-against-russia-explained/
+https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-against-russia-over-ukraine/
+https://www.bbc.com/news/world-europe-60125659
+https://github.com/codebasics/langchain/blob/main/2_news_research_tool_project/README.md
