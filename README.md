@@ -19,7 +19,7 @@ DeepQuery is an innovative research tool designed to enhance knowledge extractio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DeepQuery.git
+   git clone https://github.com/baksben/DeepQuery.git
    cd DeepQuery
    ```
 
