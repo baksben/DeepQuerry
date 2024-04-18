@@ -1,4 +1,3 @@
-how to run "streamlit run main.py"
 # DeepQuery: Advanced Knowledge Base Research Tool
 
 ## Overview
